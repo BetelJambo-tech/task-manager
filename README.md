@@ -1,5 +1,16 @@
 # Task Manager
 
-A simple Java application that allows users to add, view, and delete tasks.
+A Java console-based application that helps users manage daily tasks.
 
-Built to practice object-oriented programming and basic data structures.
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+- Mark tasks as completed
+
+## Technologies Used
+- Java
+- ArrayList
+- Scanner
+
+This project was built to practice object-oriented programming, basic data structures, and problem-solving.
